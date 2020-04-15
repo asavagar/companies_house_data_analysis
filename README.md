@@ -1,5 +1,7 @@
 # companies_house_data_analysis
-I analyse Companies House data on _"basic company data"_. The main purpose is to present a chart of daily company incorporations. This can be compared to daily policy interventions, which are as follows: 
+I analyse Companies House data on _"basic company data"_. 
+
+The main purpose is to present a chart of daily company incorporations, see `new_incorp_barplot.pdf`. This can be compared to daily policy interventions. 
 
 ### Covid timeline
 1. Mon 16 March -- Non-essential travel prohibited
