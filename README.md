@@ -3,7 +3,7 @@ I report Companies House data on "basic company data".
 
 The full data file in `.csv` format can be found here: http://download.companieshouse.gov.uk/en_output.html
 
-The file is ~2GB. `
+The file is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
 
 This data reports basic company data of live companies on the register.
 
