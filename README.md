@@ -1,5 +1,10 @@
 # companies_house_data_analysis
-I analyse Companies House data on _"basic company data"_.
+I analyse Companies House data on _"basic company data"_. The main purpose is to present a chart of daily company incorporations. This can be compared to daily policy interventions, which are as follows: 
+
+### Covid timeline
+1. Mon 16 March -- Non-essential travel prohibited
+2. Fri 20 March -- Pubs etc. closed
+3. Mon 23 March -- Lockdown
 
 
 ## Data
@@ -15,12 +20,9 @@ This data reports basic company data of live companies on the register. It is th
 
 ## Code
 
-* The file is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
+* The basic company data file (_i.e._ the company register) is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
 
 * `02_tidyanalyze.R` produces the output `new_incorp_barplot.pdf`.
 
-## Covid timeline
-1. Mon 16 March -- Non-essential travel prohibited
-2. Fri 20 March -- Pubs etc. closed
-3. Mon 23 March -- Lockdown
+Comments Welcome!
 
