@@ -1,0 +1,7 @@
+"V1"
+"med_incorp" 2451.5
+"med_incorp_pre_ld" 2663.5
+"med_incorp_post_ld" 2070
+"mean_incorp" 2500.74418604651
+"mean_incorp_pre_ld" 2709.6
+"mean_incorp_post_ld" 2062.70833333333

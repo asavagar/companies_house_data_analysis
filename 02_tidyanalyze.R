@@ -35,6 +35,16 @@ med_incorp <- median(positive$ni)
 med_incorp_pre_ld <- median(positive[1:50,]$ni)
 med_incorp_post_ld <- median(positive[50:73,]$ni)
 
+mean_incorp <- mean(positive$ni)
+mean_incorp_pre_ld <- mean(positive[1:50,]$ni)
+mean_incorp_post_ld <- mean(positive[50:73,]$ni)
+
+avg <- t(tibble(med_incorp, med_incorp_pre_ld, med_incorp_post_ld, mean_incorp,
+                mean_incorp_pre_ld, mean_incorp_post_ld))
+
+write.table(avg,file="avg_daily_incorp.txt") 
+write.csv(avg,file="avg_daily_incorp.csv") 
+
 p <- ggplot(data = full_period, aes(x = date, y = ni)) +
   geom_bar(stat = "identity") +
   geom_hline(aes(yintercept = med_incorp_pre_ld, 
