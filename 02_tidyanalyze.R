@@ -33,6 +33,7 @@ positive <- full_period[which(full_period$ni > 10), ]
 
 med_incorp <- median(positive$ni)
 med_incorp_pre_ld <- median(positive[1:50,]$ni)
+med_incorp_post_ld <- median(positive[50:73,]$ni)
 
 p <- ggplot(data = full_period, aes(x = date, y = ni)) +
   geom_bar(stat = "identity") +
@@ -40,6 +41,8 @@ p <- ggplot(data = full_period, aes(x = date, y = ni)) +
                  color = "Median (pre-lockdown)")) +
   geom_hline(aes(yintercept = med_incorp, 
                  color = "Median (total)")) +
+  geom_hline(aes(yintercept = med_incorp_post_ld, 
+                 color = "Median (post-lockdown)")) +
   labs(title = "UK Daily Company Incorporations",
      x = "01-01-20 to 31-04-30",
      y = "Number of Incorporations",
