@@ -2,10 +2,7 @@ I analyse Companies House data on ["basic company data"](http://download.compani
 
 The main purpose is to present a chart of daily company incorporations, see `new_incorp_barplot.pdf`, or below:
 
-![daily incorps graph](https://github.com/asavagar/companies_house_data_analysis/blob/master/new_incorp_barplot.png "new_incorp_barplot.png")
-
-![](new_incorp_barplot.png "new_incorp_barplot.png")
-
+![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
 
 This can be compared to daily policy interventions. 
  
@@ -33,6 +30,3 @@ Historical data is available from the Companies House website:
 * The basic company data file (_i.e._ the company register) is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
 
 * `02_tidyanalyze.R` produces the output `new_incorp_barplot.pdf`.
-
-Comments Welcome!
-
