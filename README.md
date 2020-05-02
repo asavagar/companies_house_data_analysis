@@ -1,4 +1,4 @@
-# companies_house_data_analysis
+# Companies House New Incorporations
 I analyse Companies House data on _"basic company data"_. 
 
 The main purpose is to present a chart of daily company incorporations, see `new_incorp_barplot.pdf`. This can be compared to daily policy interventions. 
