@@ -2,7 +2,7 @@ I analyse Companies House data on ["basic company data"](http://download.compani
 
 The main purpose is to present a chart of daily company incorporations, see `new_incorp_barplot.pdf`, or below:
 
-![alt text](https://github.com/asavagar/companies_house_data_analysis/blob/master/new_incorp_barplot.png "new_incorp_barplot.png")
+![](https://github.com/asavagar/companies_house_data_analysis/blob/master/new_incorp_barplot.png "new_incorp_barplot.png")
 
 This can be compared to daily policy interventions. 
  
