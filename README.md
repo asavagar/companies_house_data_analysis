@@ -4,11 +4,10 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
  * Near real-time indicator of economic activity in the UK.
  * Daily business creation decreases 22% since lockdown.
  * 16,065 fewer businesses were created during lockdown.
+ * The size of declines in business creation differ across industries with retail the hardest hit.
  * Business creation is important for productivity and employment.
  
-# Analysis
-
-## Daily Aggregate Company Incorporations
+# Daily Aggregate Company Incorporations
 The below chart shows daily company incorporations in the UK for 2020.
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
@@ -25,11 +24,13 @@ The daily median goes from 2,664 incorporations per day before lockdown is imple
 
 This is much less than comparable figures for the US. John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
 
-## Sectoral Change in Company Incorporations
+# Sectoral Change in Company Incorporations
+
+The second graph shows the effect of lockdown on business creation across sectors. It shows the percentage change in daily average incorporations from before to after lockdown is implemented.  
 
 ![sector_change graph](sector_change.png "sector_change.png")
 
-## Importance of business creation
+# Importance of business creation
 
 Business creation is informative as a measure of economic activity. The main advantage of our data is that it provides a near real-time economic indicator for the UK economy. Unsurprisingly, our analysis confirms a severe and persistent decline in economic activity.
 
