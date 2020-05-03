@@ -26,11 +26,11 @@ This is much less than comparable figures for the US. John Haltiwanger (US Censu
 
 # Sectoral Change in Company Incorporations
 
-The second graph shows the effect of lockdown on business creation across sectors. It shows the percentage change in daily average incorporations from before to after lockdown is implemented.  
+The second graph shows the effect of lockdown on business creation across sectors. It shows the percentage change in daily average incorporations from before to after lockdown is implemented.  The retail sector suffers the largest decline in daily company incorporations with a fall of 36%. Manufacturing is more resilient with a decline of 13%.
 
 ![sector_change graph](sector_change.png "sector_change.png")
 
-# Importance of business creation
+# Importance of Business Creation
 
 Business creation is informative as a measure of economic activity. The main advantage of our data is that it provides a near real-time economic indicator for the UK economy. Unsurprisingly, our analysis confirms a severe and persistent decline in economic activity.
 
