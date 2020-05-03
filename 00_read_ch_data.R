@@ -1,3 +1,7 @@
+# 00_read_ch_data.R
+# Read Companies House company data and save small csv of relevant variables
+# Anthony Savagar
+
 require(data.table)
 require(tidyverse)
 
