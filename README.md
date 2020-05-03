@@ -57,4 +57,4 @@ Some historical data is available from the Companies House website through their
 
 # Contributors
 This report was developed by members of the [Macroeconomics Research Centre (MaGHiC)](https://research.kent.ac.uk/maghic/), Economics Department, University of Kent.
-* Alfred Duncan, İlhan Güner, Miguel León-Ledesma, Anthony Savagar.
+* Alfred Duncan, Miguel León-Ledesma, Anthony Savagar.
