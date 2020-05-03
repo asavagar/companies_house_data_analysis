@@ -1,4 +1,4 @@
-We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to 30th April.
+We analyse Companies House ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to 30th April in order to understand the effect of covid-19 policies on business creation.
 
 # Key Points
  * Near real-time indicator of economic activity in the UK.
