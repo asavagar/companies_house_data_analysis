@@ -42,13 +42,13 @@ The full data file in `.csv` format can be found on the Companies House website 
 
 The data reports the full companies register for the UK which captures basic company data of live companies on the register. 
 
-Inactive companies are periodically removed. Therefore the register is informative about number of new incorporations for the recent past. It is less informative further back because when companies are removed from the register their incorporation date is lost, hence we underestimate the number of daily incorporations the further back we go. Some historical data is available from the Companies House website through their existing statistical reports:
+The register is informative about number of new incorporations for the recent past. It is less informative further back because when companies are periodically removed from the register their incorporation date is lost, hence we underestimate the number of daily incorporations the further back we go. 
 
-  1. Companies House quarterly publication on [Incorporated Companies in the UK](https://www.gov.uk/search/research-and-statistics?content_store_document_type=published_statistics&keywords=Incorporated&organisations%5B%5D=companies-house&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=)
-  
-  
-  2. Latest statistical release _Incorporated Companies in the UK October to December 2019_ :
-  https://www.gov.uk/government/statistics/incorporated-companies-in-the-uk-october-to-december-2019
+Some historical data is available from the Companies House website through their existing statistical reports:
+
+ * Quarterly publication on [Incorporated Companies in the UK](https://www.gov.uk/search/research-and-statistics?content_store_document_type=published_statistics&keywords=Incorporated&organisations%5B%5D=companies-house&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=).
+    
+ * Latest statistical release on [Incorporated Companies in the UK October to December 2019](https://www.gov.uk/government/statistics/incorporated-companies-in-the-uk-october-to-december-2019).
 
 # Code
 
