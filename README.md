@@ -1,11 +1,15 @@
 We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html).
 
-# Daily Company Incorporations
+# Key Points
+ * Provide a near real-time indicator of economic activity in the UK up to 30th April.
+ * Daily business creation decreases 22% since lockdown began.
+ * 16,065 fewer businesses were created during lockdown period.
+ * Business creation is important for productivity and employment.
+ 
+# Analysis
 The below chart shows daily company incorporations in the UK for 2020.
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
-
-## Discussion
 
 This can be compared to daily covid-19 policy interventions: 
  
