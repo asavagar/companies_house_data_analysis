@@ -1,6 +1,6 @@
 We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html).
 
-The main purpose is to present a chart of daily company incorporations, see `new_incorp_barplot.pdf`, or below:
+`02_tidyanalyze.R` generates a chart of daily company incorporations, see `new_incorp_barplot.pdf`, or below:
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
 
@@ -15,7 +15,7 @@ The number of new incorporations decline sharply after the third week of March (
 
 Before and after the lockdown is implemented, the daily median goes from 2,664 to 2,070 incorporations per day. This is a fall in business creation of 22%. This is much less than comparable figures for the US. 
 
-John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes such as tax and restructuring reasons. Our data does not provide this distinction so we focus on all business incorporations regardless of their intended purpose.
+John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes such as tax and restructuring reasons. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
 
 ## Data
 The full data file in `.csv` format can be found here: [http://download.companieshouse.gov.uk/en_output.html](http://download.companieshouse.gov.uk/en_output.html).
