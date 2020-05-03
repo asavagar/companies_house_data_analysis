@@ -1,9 +1,9 @@
-We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html).
+We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html) up to 30th April.
 
 # Key Points
- * Provide a near real-time indicator of economic activity in the UK up to 30th April.
- * Daily business creation decreases 22% since lockdown began.
- * 16,065 fewer businesses were created during lockdown period.
+ * Near real-time indicator of economic activity in the UK.
+ * Daily business creation decreases 22% since lockdown.
+ * 16,065 fewer businesses were created during lockdown.
  * Business creation is important for productivity and employment.
  
 # Analysis
