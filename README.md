@@ -54,3 +54,7 @@ Some historical data is available from the Companies House website through their
 * The basic company data file (_i.e._ the company register) is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
 
 * `02_tidyanalyze.R` produces the output `new_incorp_barplot.pdf`.
+
+# Contributors
+This report was developed by members of the [Macroeconomics Research Centre (MaGHiC)](https://research.kent.ac.uk/maghic/), Economics Department, University of Kent.
+* Alfred Duncan, İlhan Güner, Miguel León-Ledesma, Anthony Savagar.
