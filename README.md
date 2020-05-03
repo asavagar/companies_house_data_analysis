@@ -15,9 +15,9 @@ This can be compared to daily covid-19 policy interventions:
 
 The number of new incorporations decline sharply after the third week of March (week ending Fri 20th March), which is when lockdown measures were implemented strictly. 
 
-The daily median goes from 2,664 incorporations per day before lockdown is implemented to 2,070 incorporations per day after lockdown is implemented. This is a fall in business creation of 22%. This is much less than comparable figures for the US. 
+The daily median goes from 2,664 incorporations per day before lockdown is implemented to 2,070 incorporations per day after lockdown is implemented. This is a fall in business creation of 22%. Therefore, 16,065 less businesses were created from the beginning of lockdown to the end of April than would have been the case if the pre-lockdown median had persisted. 
 
-John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
+This is much less than comparable figures for the US. John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
 
 ## Importance of business creation
 
