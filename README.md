@@ -17,7 +17,7 @@ The daily median goes from 2,664 incorporations per day before lockdown is imple
 John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
 
 ## Data
-The full data file in `.csv` format can be found on the Companies House website (available [here](http://download.companieshouse.gov.uk/en_output.html)). See `.pdf` for a list of variables ([here](https://github.com/asavagar/companies_house_data_analysis/blob/master/freeDataProductDataset.pdf)) 
+The full data file in `.csv` format can be found on the Companies House website (available [here](http://download.companieshouse.gov.uk/en_output.html)). The full list of variables is available [here](https://github.com/asavagar/companies_house_data_analysis/blob/master/freeDataProductDataset.pdf). 
 
 The data reports the full companies register for the UK which captures basic company data of live companies on the register. 
 
