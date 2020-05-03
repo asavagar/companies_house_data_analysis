@@ -61,7 +61,7 @@ Some historical data is available from the Companies House website through their
 * The basic company data file (_i.e._ the company register) is ~2GB.
 * `00_read_ch_data.R` reads in necessary variables and saves as a smaller `.csv`.
 * `01_analyze_num_incorps.R` produces the output `new_incorp_barplot.pdf` and `new_incorp_barplot.png`.
-* `sector_change.png` is produced from an independent analysis.
+* `sector_change.png` is produced from an independent analysis in `Julia`.
 
 # Contributors
 This report was developed by members of the [Macroeconomics Research Centre (MaGHiC)](https://research.kent.ac.uk/maghic/), Economics Department, University of Kent.
