@@ -51,9 +51,9 @@ Some historical data is available from the Companies House website through their
  * Latest statistical release on [Incorporated Companies in the UK October to December 2019](https://www.gov.uk/government/statistics/incorporated-companies-in-the-uk-october-to-december-2019).
 
 # Code
-* The basic company data file (_i.e._ the company register) is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
-
-* `02_tidyanalyze.R` produces the output `new_incorp_barplot.pdf`.
+* The basic company data file (_i.e._ the company register) is ~2GB.
+* `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
+* `02_tidyanalyze.R` produces the output `new_incorp_barplot.pdf` and `new_incorp_barplot.png`.
 
 # Contributors
 This report was developed by members of the [Macroeconomics Research Centre (MaGHiC)](https://research.kent.ac.uk/maghic/), Economics Department, University of Kent.
