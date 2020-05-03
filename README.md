@@ -1,10 +1,10 @@
 We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html).
 
-`02_tidyanalyze.R` generates a chart of daily company incorporations, see `new_incorp_barplot.pdf`, or below:
+The below chart shows daily company incorporations in the UK for 2020.
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
 
-This can be compared to daily policy interventions. 
+This can be compared to daily covid-19 policy interventions. 
  
 ### Covid-19 Policy Timeline
 1. Mon 16 March -- Non-essential travel prohibited
@@ -13,7 +13,7 @@ This can be compared to daily policy interventions.
 
 The number of new incorporations decline sharply after the third week of March (week ending Fri 20th March), which is when lockdown measures were implemented strictly. 
 
-Before and after the lockdown is implemented, the daily median goes from 2,664 to 2,070 incorporations per day. This is a fall in business creation of 22%. This is much less than comparable figures for the US. 
+The daily median goes from 2,664 incorporations per day before lockdown is implemented to 2,070 incorporations per day after lockdown is implemented. This is a fall in business creation of 22%. This is much less than comparable figures for the US. 
 
 John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes such as tax and restructuring reasons. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
 
