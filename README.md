@@ -7,7 +7,7 @@ The below chart shows daily company incorporations in the UK for 2020.
 
 ## Discussion
 
-This can be compared to daily covid-19 policy interventions. 
+This can be compared to daily covid-19 policy interventions: 
  
 1. Mon 16 March: Non-essential travel prohibited.
 2. Fri 20 March: Pubs etc. closed.
