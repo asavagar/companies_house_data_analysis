@@ -7,6 +7,8 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
  * Business creation is important for productivity and employment.
  
 # Analysis
+
+## Daily Aggregate Company Incorporations
 The below chart shows daily company incorporations in the UK for 2020.
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
@@ -22,6 +24,10 @@ The number of new incorporations decline sharply after the third week of March (
 The daily median goes from 2,664 incorporations per day before lockdown is implemented to 2,070 incorporations per day after lockdown is implemented. This is a fall in business creation of 22%. Therefore, 16,065 less businesses were created, from the beginning of lockdown to the end of April, than would have been created if the pre-lockdown median had persisted. 
 
 This is much less than comparable figures for the US. John Haltiwanger (US Census Bureau) shows a 42% decline in new business applications in the US for the week ending March 28 relative to the same week in 2019 (available [here](http://econweb.umd.edu/~haltiwan/first_look.pdf)). They use [BFS data](https://www.census.gov/data/experimental-data-products/weekly-business-formation-statistics.html), which allows them to focus on _business applications with planned wages_. This is an important distinction because it identifies "genuine" firms as opposed to entities created for accountancy purposes. Our data does not provide this distinction. We focus on all business incorporations regardless of their intended purpose.
+
+## Sectoral Change in Company Incorporations
+
+![sector_change graph](sector_change.png "sector_change.png")
 
 ## Importance of business creation
 
