@@ -25,13 +25,13 @@ Business creation is informative as a measure of economic activity. The main adv
 
 However, business creation is important for deeper economic reasons:
 
-1. Productivity: New firms grow to compete with existing firms. This puts pressure on established firms to continue to innovate and keeps prices low as consumers have alternative choices. Additionally, successful new firms grow faster than existing firms and have higher levels of productivity ([Foster, Haltiwanger and Krizan 2001](https://www.nber.org/chapters/c10129)). In fact, evidence for the US suggests a small number of high-growth startups account for large portions of aggregate productivity, output and employment growth.
+1. Productivity: New firms grow to compete with existing firms. This puts pressure on established firms to continue to innovate and keeps prices low as consumers have alternative choices. Additionally, successful new firms grow faster than existing firms and have higher levels of productivity ([Foster, Haltiwanger and Krizan 2001](https://www.nber.org/chapters/c10129)). In fact, evidence for the US suggests a small number of high-growth startups account for large portions of aggregate productivity, output and employment growth ([Haltiwanger, Jarmin, Kulick and Miranda 2017](https://www.nber.org/chapters/c13492)).
 
 2. Employment: A fall in business creation directly reduces the number of jobs created. This has an ongoing effect as the crisis generation of firms ages ([Sedláček 2019](https://www.sciencedirect.com/science/article/abs/pii/S0304393219300078)). Furthermore, surviving new firms create more jobs than they destroy, so they are net job creators. 
 
 See [Sedláček and Sterk 2020](https://voxeu.org/article/startup-employment-calculator-covid-19) for deeper analysis of these points with reference to the US.
 
-Entering the crisis, the UK had record high levels of employment, but suffered from weak productivity growth. The fall in business creation will decrease UK employment levels and productivity growth will take a further hit. The productivity point should be a major concern for UK policymakers who were already grappling with the UK's 'productivity puzzle'.
+Entering the crisis, the UK had record high levels of employment, but suffered from weak productivity growth. The fall in business creation will decrease UK employment levels and productivity growth will take a further hit. The productivity point should be a major concern for UK policymakers who were already grappling with the UK's "productivity puzzle".
 
 # Data
 The full data file in `.csv` format can be found on the Companies House website (available [here](http://download.companieshouse.gov.uk/en_output.html)). The full list of variables is available [here](https://github.com/asavagar/companies_house_data_analysis/blob/master/freeDataProductDataset.pdf). 
