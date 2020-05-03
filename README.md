@@ -1,9 +1,11 @@
 We analyse Companies House data on ["basic company data"](http://download.companieshouse.gov.uk/en_output.html).
 
-
+# Daily Company Incorporations
 The below chart shows daily company incorporations in the UK for 2020.
 
 ![daily incorps graph](new_incorp_barplot.png "new_incorp_barplot.png")
+
+## Discussion
 
 This can be compared to daily covid-19 policy interventions. 
  
@@ -31,7 +33,7 @@ See [Sedláček and Sterk 2020](https://voxeu.org/article/startup-employment-cal
 
 Entering the crisis, the UK had record high levels of employment, but suffered from weak productivity growth. The fall in business creation will decrease UK employment levels and productivity growth will take a further hit. The productivity point should be a major concern for UK policymakers who were already grappling with the UK's 'productivity puzzle'.
 
-## Data
+# Data
 The full data file in `.csv` format can be found on the Companies House website (available [here](http://download.companieshouse.gov.uk/en_output.html)). The full list of variables is available [here](https://github.com/asavagar/companies_house_data_analysis/blob/master/freeDataProductDataset.pdf). 
 
 The data reports the full companies register for the UK which captures basic company data of live companies on the register. 
@@ -44,7 +46,7 @@ Inactive companies are periodically removed. Therefore the register is informati
   2. Latest statistical release _Incorporated Companies in the UK October to December 2019_ :
   https://www.gov.uk/government/statistics/incorporated-companies-in-the-uk-october-to-december-2019
 
-## Code
+# Code
 
 * The basic company data file (_i.e._ the company register) is ~2GB so `00-read.R` reads in necessary variables and saves as a smaller `.csv`.
 
