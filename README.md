@@ -7,9 +7,9 @@ The below chart shows daily company incorporations in the UK for 2020.
 This can be compared to daily covid-19 policy interventions. 
  
 ### Covid-19 Policy Timeline
-1. Mon 16 March -- Non-essential travel prohibited
-2. Fri 20 March -- Pubs etc. closed
-3. Mon 23 March -- Lockdown
+1. Mon 16 March: Non-essential travel prohibited.
+2. Fri 20 March: Pubs etc. closed.
+3. Mon 23 March: Lockdown.
 
 The number of new incorporations decline sharply after the third week of March (week ending Fri 20th March), which is when lockdown measures were implemented strictly. 
 
