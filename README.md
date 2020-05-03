@@ -4,7 +4,7 @@ We analyse Companies House ["basic company data"](http://download.companieshouse
  * Near real-time indicator of economic activity in the UK.
  * Daily business creation decreases 22% since lockdown.
  * 16,065 fewer businesses were created during lockdown.
- * The size of declines in business creation differ across industries with retail the hardest hit.
+ * The retail sector suffers the largest decline in business creation: a 33% fall in daily incorporations.
  * Business creation is important for productivity and employment.
  
 # Daily Aggregate Company Incorporations
